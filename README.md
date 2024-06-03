@@ -1,2 +1,2 @@
 # overwatchDetect
-Detect current information(HP) in overwatch2 by capturing screen.
+Detect current information(HP) in overwatch2 by capturing screen(16:9).
